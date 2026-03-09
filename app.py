@@ -6,7 +6,7 @@ from llm.Brain import get_ai_crtique
 import altair as alt
 import pandas as pd
 import numpy as np
-from Visualisation.Graph import plot_pie_chart
+
 import matplotlib.pyplot as plt
 
 
